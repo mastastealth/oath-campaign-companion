@@ -1,0 +1,5 @@
+{
+	"name": "Oath Campaign Companion",
+	"display": "standalone",
+	"start_url": "/?standalone=true"
+}
