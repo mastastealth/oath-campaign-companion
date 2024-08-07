@@ -1,11 +1,10 @@
 {
 	"name": "Oath Campaign Companion",
 	"description": "Companion app for the Campaign action in Oath",
-	"short_name": "oath-campaign-companion",
 	"display": "standalone",
 	"start_url": "/oath-campaign-companion",
 	"scope": "/oath-campaign-companion",
-	"background_color": "#ffffff",
+	"background_color": "#242424",
 	"theme_color": "#933b80",
 	"icons": [
 		{
