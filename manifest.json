@@ -1,5 +1,7 @@
 {
 	"name": "Oath Campaign Companion",
 	"display": "standalone",
-	"start_url": "/?standalone=true"
+	"start_url": "/",
+	"background_color": "#ffffff",
+	"theme_color": "#933b80"
 }
