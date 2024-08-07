@@ -15,7 +15,7 @@
 
 @font-face {
 	font-family: Oath;
-	src: url("oath.otf") format("opentype");
+	src: url("/oath.otf") format("opentype");
 }
 
 .oath {

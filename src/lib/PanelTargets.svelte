@@ -250,7 +250,7 @@
 
 	.site {
 		aspect-ratio: 4.5 / 3;
-		background: url(site.avif) no-repeat center;
+		background: url(/site.avif) no-repeat center;
 		background-size: contain;
 		border: 1px solid transparent;
 		border-radius: 2px;
