@@ -1,0 +1,9 @@
+{
+	"name": "Oath Campaign Companion",
+	"description": "Companion app for the Campaign action in Oath",
+	"display": "standalone",
+	"start_url": "/oath-campaign-companion",
+	"scope": "/oath-campaign-companion",
+	"background_color": "#ffffff",
+	"theme_color": "#933b80"
+}
