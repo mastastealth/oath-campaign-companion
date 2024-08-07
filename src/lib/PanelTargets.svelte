@@ -190,8 +190,8 @@
 
 		<p class="span-grid">
 			<strong>Reminder:</strong> Add or remove dice based off special
-			<strong>sites</strong>
-			and <strong>battle plans</strong> before you roll!
+			<strong>sites</strong>, <strong>Oathkeeper/Usurper</strong> status, and
+			<strong>battle plans</strong> before you roll!
 		</p>
 
 		<button class="span-grid" on:click={nextStep}>I Rolled!</button>
